@@ -1,8 +1,33 @@
 {
-  "title": "1",
+  "title": "re mo",
   "description": "",
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1636598176",
+      "groups": {
+        "AAA": "https://imgur.com/gallery/8hfnzHj"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "",
+      "last_updated": "1636598371",
+      "groups": {
+        "AAA": "https://i.imgur.com/Usmw5Mt.jpg"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "",
+      "last_updated": "1636598414",
+      "groups": {
+        "AAA": "https://i.imgur.com/EEPfoW6.jpg"
+      }
+    }
+  }
 }
